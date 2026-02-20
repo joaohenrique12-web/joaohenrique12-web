@@ -9,9 +9,9 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Front-end: React, Next.js, JavaScript, TypeScript
-- Back-end: Node.js, NestJS
-- Banco de Dados: PostgreSQL
+- Front-end: React, Next.js, JavaScript, TypeScript, HTML, CSS
+- Back-end: Node.js, NestJS, Java, Python
+- Banco de Dados: MySQL, Oracle Database
 - Versionamento: Git & GitHub
 - Metodologias: Clean Code, Arquitetura em camadas
 
